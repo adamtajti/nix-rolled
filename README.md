@@ -19,7 +19,7 @@ Read up on the initialization procedure at [./flakes/public/dotfiles-flake/READM
 ## Structure
 
 - `nixpkgs`: Contains Nix Derivations which can be used in Nix Flakes.
-- `flakes`: Contains Nix Flakes that provides.
+- `flakes`: Contains Nix Flakes that are used to enter different development environments.
 - `scripts`: Contains Scripts to speed up my workflows.
 - `assets`: Contains Assets to be referenced Derivations, Flakes, Scripts, etc.
 
